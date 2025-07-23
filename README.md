@@ -50,3 +50,6 @@ I am an electronics engineering graduate with an extensive experience in AI Engi
 
 
 ## ⚡ Fun fact
+- I graduated as **Cum Laude** in my batch, but felt lost after graduation due to my overarching sense of purpose being drowned out by the poor economy and employment opportunities in the Philippines.
+- I have always been active in leadership roles from my first year up to my last year, finally settling with **Leadereship** as one of my core skills.
+- My favorite book is **7 Habits of Highly Effective People** by Stephen Covey. This hsaped my way of looking at leadership and being effective.
