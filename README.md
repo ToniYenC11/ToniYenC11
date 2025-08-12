@@ -31,17 +31,15 @@ I am an electronics engineering graduate with an extensive experience in AI Engi
 ---
 
 ## 🔭 Currently Working 
-1. **DOST-SEI RAG for Scholarship Queries**
- - As a scholar myself, I had no idea that there are so many opportunities for me in my post-graduate career if I want to be paid by the government to research groundbreaking discoveries in my field.
- - Hence, to help my aspiring and fellow scholars out, I wanted to create my own RAG-improved chatbot based on an open-source model of my choice.  
+1. **CervAI**
+ - I'll be continuing my work for the Cerv.AI project where instead of object detection, it would be image segmentation for the parts or indicators of cervical cancer.
 2. **Real-time public utility vehicles and commute app**
  - Still an idea. I am a hardcore commuter myself and thus, I struggle to find instructions on how to get to place of my choosing via PUV (Jeepney,bus,E-trike)
  - Thus, I want to create a mobile app that does that: detailed route, pricing, and time estimating for my daily commute experience.
 
 ## 🌱 I’m currently learning
 1. **Retrieval Augmented Generation**
-2. **Software Engineering Principles** - This is to prepare myself for real-world software development through cross-functional teams.
-3. **AI Agents** - Also includes **Model Context Protocol**, which I plan on to use to automate my own workflows.
+2. **AI Agents** - Also includes **Model Context Protocol**, which I plan on to use to automate my own workflows.
 
 
 ## 📫 How to reach me
@@ -51,5 +49,6 @@ I am an electronics engineering graduate with an extensive experience in AI Engi
 
 ## ⚡ Fun fact
 - I graduated as **Cum Laude** in my batch, but felt lost after graduation due to my overarching sense of purpose being drowned out by the poor economy and employment opportunities in the Philippines.
+- I am also taking an **AWS Re/Start** program that allows me to take the Cloud Practitioner Exam upon completion of requirements.
 - I have always been active in leadership roles from my first year up to my last year, finally settling with **Leadereship** as one of my core skills.
 - My favorite book is **7 Habits of Highly Effective People** by Stephen Covey. This hsaped my way of looking at leadership and being effective.
