@@ -1,5 +1,7 @@
 # Hi there, Toniyen Here! 👋
 
+![ToniYenC11's Stats](https://github-readme-stats.vercel.app/api?username=ToniYenC11&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
 ## About Me
 
 I am an electronics engineering graduate with an extensive experience in AI Engineering and Software Engineering primarily in python. I am an associate certified Data Engineer who made contributions with the Department of Science adn Technology - Advanced Science and Technology Institute (DOST-ASTI) working on a cervical cancer detection through a cheap method using acetic acid, to be deployed in far to reach places in the Philippines. I enjoy tackling actual scientific and business problems, not just those that are already tackled through large systems, but even the niche and smaller ones that are often overlooked.
