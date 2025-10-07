@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am an electronics engineering graduate with an extensive experience in AI Engineering and Software Engineering primarily in python. I am an associate certified Data Engineer who made contributions with the Department of Science adn Technology - Advanced Science and Technology Institute (DOST-ASTI) working on a cervical cancer detection through a cheap method using acetic acid, to be deployed in far to reach places in the Philippines. I enjoy tackling actual scientific and business problems, not just those that are already tackled through large systems, but even the niche and smaller ones that are often overlooked.
+I am an electronics engineering graduate with an extensive experience in AI Engineering and Software Engineering primarily in python. I am an associate certified Data Engineer who made contributions with the Department of Science and Technology - Advanced Science and Technology Institute (DOST-ASTI) working on a cervical cancer detection through a cheap method using acetic acid, to be deployed in far to reach places in the Philippines. I enjoy tackling actual scientific and business problems, not just those that are already tackled through large systems, but even the niche and smaller ones that are often overlooked.
 
 ---
 ## 🔧 Technologies and Tools
@@ -35,9 +35,15 @@ I am an electronics engineering graduate with an extensive experience in AI Engi
 ## 🔭 Currently Working 
 1. **CervAI**
  - I'll be continuing my work for the Cerv.AI project where instead of object detection, it would be image segmentation for the parts or indicators of cervical cancer.
-2. **Real-time public utility vehicles and commute app**
- - Still an idea. I am a hardcore commuter myself and thus, I struggle to find instructions on how to get to place of my choosing via PUV (Jeepney,bus,E-trike)
- - Thus, I want to create a mobile app that does that: detailed route, pricing, and time estimating for my daily commute experience.
+2. **RAG the government receipts**
+
+I'll be making a RAG system where:
+- It contains 100 government receipts from the previous corruption case of DPWH
+- It can retrieve documents based on:
+ - Name of the person involved
+ - Date it occurred
+ - (Optional) Amount based on query (i.e. more than 500 million pesos)
+- Limited scope to DPWH transactions with related government agencies (i.e. Landbank, COA, DBM)
 
 ## 🌱 I’m currently learning
 1. **Retrieval Augmented Generation**
